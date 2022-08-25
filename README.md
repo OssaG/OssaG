@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @OssaG.
-- 👀 I’m interested in IT and computers.
-- 🌱 I’m currently learning about IT.
-- 📫 How to reach me Ossabossen#6220
+Hallå elle
